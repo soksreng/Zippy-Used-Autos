@@ -162,7 +162,7 @@ npx tailwindcss -i ./css/style.css -o ./css/tailwind.css --watch
 
 ## 👨‍💻 Author
 
-Sok Sreng(Jack) – CS Student @ Fort Hays & AUPP  
+Sok Sreng(Jack) Chan – CS Student @ Fort Hays & AUPP  
 
 ---
 
